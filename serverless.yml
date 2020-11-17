@@ -1,7 +1,7 @@
 service:
-  name: blockchain
+  name: block-service
 # app and org for use with dashboard.serverless.com
-app: crypto-app
+app: blockchain
 org: jngisiro
 
 custom:
